@@ -1,0 +1,44 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+ul {
+    list-style: none;
+    border: 1px solid teal;
+}
+
+.GNB{
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+
+.GNB_menu{
+    display: inline-block;
+    padding : 30px;
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.logo {
+    text-align: left;
+
+}
+
+* {
+    font-family: "pretendard", sans-serif;
+    font-weight: 550;
+}
+.logo{
+    position: absolute;
+    left: 40px;
+    bottom: 50%;
+
+}
+.GNB_button{
+    font-size: 18px;
+
+}
