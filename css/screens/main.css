@@ -1,0 +1,37 @@
+.main_first-image1>img{
+    z-index: 9997;
+    position: absolute;
+    width: 60%;
+    top: 70px;
+    right: 30px;
+}
+.main_first-image2>img{
+    position: relative;
+    z-index: 9996;
+    width: 100%;
+    top: 85px;
+}
+
+.main_first-text{
+    position: absolute;
+    z-index: 9998;
+    display: inline-block;
+    margin-top: 250px;
+    margin-left: 50px;
+}
+
+.main_first-text>h3{
+    font-size: 63px;
+    letter-spacing: 3px;
+    line-height: 120%;
+}
+
+.main_first-text>p{
+    font-size: 34px;
+    padding-top: 20px;
+}
+
+.main_first-text>p>span{
+    color: var(--wcolor);
+}
+
