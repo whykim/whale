@@ -1,0 +1,11 @@
+.details{
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-top: 50px;
+}
+
+.details>a{
+    color: white;
+    font-size: 18px;
+}

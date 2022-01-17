@@ -1,21 +1,21 @@
 .main_first-image1>img{
     z-index: 9997;
     position: absolute;
-    width: 57%;
-    top: 38px;
-    right: 30px;
+    width: 45%;
+    left: 550px;
+    top: 100px;
 }
 .main_first-image2>img{
     position: relative;
-    z-index: 9996;
     width: 100%;
-    top: 65px;
+    margin-top: 84px;
+    display: block;
 }
+
 
 .main_first-1{
     position: absolute;
     z-index: 9998;
-    display: inline-block;
     margin-top: 250px;
     margin-left: 40px;
 }
@@ -34,46 +34,8 @@
 .main_first-1>p>span{
     color: var(--wcolor);
 }
-
-
 .main_first-1>h3>span{
     color: var(--wcolor);
-}
-
-
-
-.btn1{
-    margin-top: 30px;
-    font-size: 30px;
-    font-weight: 350;
-    background-color: var(--wcolor);
-    color: white;
-    position: absolute;
-    border: 0px;
-    padding: 20px 60px;
-    padding-right: 50px;
-    border-radius: 50px;
-}
-
-.btn1>img{
-    margin-left: 10px;
-    vertical-align: top;
-}
-
-.main_second>img{
-    width: 100%;
-    margin-top: 50px;
-    display: block;
-}
-
-.main-third>img {
-    width: 100%;
-    margin: 0px;
-    display: block;
-}
-.main-fourth>img{
-    width: 100%;
-    display: block;
 }
 
 

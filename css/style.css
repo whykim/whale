@@ -1,14 +1,18 @@
 /*etc*/
 @import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 
+/*variables*/
 @import "variables.css";
 
 /*component*/
 @import "components/nav-bar.css";
-
+@import "components/dwnbtn.css";
+@import "components/details.css";
 
 /*screens*/
 @import "screens/main.css";
+@import "screens/contents.css";
+@import "screens/third.css";
 
 
 
@@ -17,6 +21,7 @@
 *{
     margin: 0;
     padding: 0;
+    text-decoration: none;
 }
 
 body{

@@ -1,0 +1,53 @@
+
+.second-contents{
+    display: flex;
+    position: relative;
+}
+.second_backgroundimg>img{
+    width: 100%;
+    position: absolute;
+    display: block;
+}
+
+.second_txt{
+    padding-top: 200px;
+    padding-left: 45px;
+    display: block;
+}
+
+.second_txt1{
+    color: #FFFFFF;
+    opacity: 0.6;
+    font-size: 30px;
+}
+
+.second_txt2{
+    color: white;
+    font-size: 50px;
+    padding-top: 30px;
+}
+
+.second_txt2>p>span{
+    background-color: white;
+    color: #00b7bc;
+    padding: 0px 12px;
+    font-weight: 600;
+}
+
+
+.movinggif{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 180px;
+}
+
+.movinggif>img{
+    width: 70%;
+    border-radius: 10px;
+    box-shadow: 20px 20px 10px 5px rgba(0,0,0,0.2);
+}
+
+
+
+

@@ -4,8 +4,8 @@
     z-index: 9999;
     display: flex;
     box-shadow: 0px -25px 40px #000;
-    box-sizing: border-box;
     background-color: white;
+    top: 0%;
 }
 .GNB_logo-file{
     width: 150px;
