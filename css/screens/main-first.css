@@ -31,11 +31,10 @@
     padding: 20px 0px;
 }
 
-.main_first-1>p>span{
-    color: var(--wcolor);
-}
+.main_first-1>p>span,
 .main_first-1>h3>span{
     color: var(--wcolor);
 }
+
 
 

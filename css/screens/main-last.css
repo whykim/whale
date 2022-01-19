@@ -1,0 +1,21 @@
+.main-last{
+    margin: 130px 0;
+}
+
+
+.last-contents_img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.last-contents_img>img{
+    width: 50%;
+}
+
+.last-contents_btn{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

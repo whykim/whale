@@ -1,52 +1,62 @@
-
-.second-contents{
-    display: flex;
+.contents_all{
     position: relative;
 }
-.second_backgroundimg>img{
+
+.contents_background>img{
     width: 100%;
-    position: absolute;
     display: block;
 }
 
-.second_txt{
-    padding-top: 200px;
+.contents_txt{
     padding-left: 45px;
-    display: block;
+    padding-top: 200px;
+    position: absolute;
 }
 
-.second_txt1{
+.contents_txt1{
     color: #FFFFFF;
     opacity: 0.6;
     font-size: 30px;
 }
 
-.second_txt2{
+.contents_txt2{
     color: white;
     font-size: 50px;
     padding-top: 30px;
 }
+.movinggif>img{
+    width: 48%;
+    left: 45%;
+    margin-top: 200px;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 20px 20px 10px 5px rgba(0,0,0,0.2);
+}
 
-.second_txt2>p>span{
+
+/*콘텐츠 강조 영역*/
+.second-screen_emphasis,
+.third-screen_emphasis,
+.fourth-screen_emphasis{
     background-color: white;
-    color: #00b7bc;
     padding: 0px 12px;
     font-weight: 600;
 }
-
-
-.movinggif{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 180px;
+.second-screen_emphasis{
+    color: #00b7bc;
+}
+.third-screen_emphasis{
+    color: #058dec;
+}
+.fourth-screen_emphasis{
+    color: #454ccd;
 }
 
-.movinggif>img{
-    width: 70%;
-    border-radius: 10px;
-    box-shadow: 20px 20px 10px 5px rgba(0,0,0,0.2);
-}
+
+
+
+
+
 
 
 

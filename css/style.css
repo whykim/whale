@@ -10,11 +10,9 @@
 @import "components/details.css";
 
 /*screens*/
-@import "screens/main.css";
+@import "screens/main-first.css";
 @import "screens/contents.css";
-@import "screens/third.css";
-
-
+@import "screens/main-last.css";
 
 
 
